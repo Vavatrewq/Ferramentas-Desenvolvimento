@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding:0%;
+
+}
+
+section{
+    background-image: url("../imagens/Ferramentas2.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    background-attachment: fixed;
+}
+
+.title{
+   font-size: 40px;
+   color:white;
+   background-color: rgb(222,226,230,0.6);
+   text-align: center;
+   padding-bottom: 50px;
+   padding-top:300px;
+   margin-left:200px;
+   margin-right:200px;
+   border-radius: 20px;
+}
+
+li{
+    text-decoration: none;
+    padding-top: 20px;
+    font-size:24px;
+    
+    color:white;
+}
+
+.facebook{
+    
+    
+
+}
+
+.instagram{
+    
+
+}
+
+.twitter{
+    
+
+}
